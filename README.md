@@ -20,5 +20,4 @@
 - Selenium
 - MAVEN Projesi olarak tasarlanmıştır.
 
-# Sefa Okumuş
-Testinium şirketinin isteği üzerine hazırlanmıştır.
+
